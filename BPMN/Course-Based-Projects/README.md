@@ -21,6 +21,11 @@ The process covers:
 - customer communication,
 - closing the process after payment is received.
 
+### 🔎 BPMN Diagram
+
+![Luxxis Company – Order Fulfillment Process](./Luxxis-Company-Order-Fulfillment.png)
+
+📄 [View the full diagram in PDF format](./Luxxis-Company-Order-Fulfillment.pdf)
 
 
 ## 🏝️ 02. Wonder Island – Permanent Visa Process
@@ -36,6 +41,11 @@ The model covers:
 - coordinating with an external visa printing agency,
 - informing the applicant when the visa is ready for collection.
 
+### 🔎 BPMN Diagram
+
+![Wonder Island – Permanent Visa Process](./Wonder-Island-Permanent-Visa.png)
+
+📄 [View the full diagram in PDF format](./Wonder-Island-Permanent-Visa.pdf)
 
 
 ## 🚀 03. Space Ship Manufacturing Process
@@ -54,6 +64,11 @@ The model covers:
 - adjusting the production plan based on performance results and customer feedback,
 - starting the second production batch.
 
+### 🔎 BPMN Diagram
+
+![Space Ship Manufacturing Process](./Space-Ship-Manufacturing-Process.png)
+
+📄 [View the full diagram in PDF format](./Space-Ship-Manufacturing-Process.pdf)
 
 
 ## 🛂 04. Visa Process
@@ -71,6 +86,12 @@ The model covers:
 - updating applicant information in the database,
 - blocking and blacklisting applicants,
 - handling visa overstay cases.
+
+### 🔎 BPMN Diagram
+
+![Visa Process](./Visa-Process.png)
+
+📄 [View the full diagram in PDF format](./Visa-Process.pdf)
 
 
 ## 📈 Project Purpose
